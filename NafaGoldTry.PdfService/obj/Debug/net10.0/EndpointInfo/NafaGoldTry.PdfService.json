@@ -1,0 +1,59 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "NafaGoldTry.PdfService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/pdf": {
+      "post": {
+        "tags": [
+          "Pdf"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PdfRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PdfRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PdfRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PdfRequest": {
+        "type": "object",
+        "properties": {
+          "html": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Pdf"
+    }
+  ]
+}

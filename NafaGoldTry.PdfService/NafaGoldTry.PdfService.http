@@ -1,0 +1,6 @@
+@NafaGoldTry.PdfService_HostAddress = http://localhost:5189
+
+GET {{NafaGoldTry.PdfService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

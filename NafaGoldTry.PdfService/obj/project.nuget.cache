@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gm9ULyMdnKk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chand\\Downloads\\employlogin\\NafaGoldTry.PdfService\\NafaGoldTry.PdfService\\NafaGoldTry.PdfService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chand\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.0\\swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

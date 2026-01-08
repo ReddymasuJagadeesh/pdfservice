@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NafaGoldTry.PdfService.Controllers.PdfController",
+    "Method": "Generate",
+    "RelativePath": "pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NafaGoldTry.PdfService.Controllers.PdfRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
